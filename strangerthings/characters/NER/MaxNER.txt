@@ -1,0 +1,11 @@
+Russians		NORP
+the AV Club		ORG
+Hawkins Lab		ORG
+Atari		PRODUCT
+Mormons		NORP
+Salerno		GPE
+California		GPE
+Utah		GPE
+Amish		NORP
+Old Cherry Road		FAC
+Cherry Lane		FAC

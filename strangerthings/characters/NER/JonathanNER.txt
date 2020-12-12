@@ -1,0 +1,9 @@
+Russians		NORP
+Wheeler		EVENT
+The Hawkins Post		ORG
+Joy Division		ORG
+Bowie, Television		ORG
+Smiths		ORG
+Clash		ORG
+Thumper		ORG
+Castle Byers		FAC

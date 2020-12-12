@@ -1,0 +1,8 @@
+Dearborn		GPE
+Russian		NORP
+Hawkins Lab		ORG
+Crawleys		PRODUCT
+The Hawkins Post		ORG
+RadioShack		ORG
+Walkman		PRODUCT
+Starcourt		GPE

@@ -1,0 +1,13 @@
+Mount Sinai		LOC
+Russians		NORP
+Russian		NORP
+Army		ORG
+Nam		EVENT
+California		GPE
+Pennhurst		ORG
+Kerley County		GPE
+Alcatraz		LOC
+Egon		ORG
+Randolph Road		FAC
+Department of Energy		ORG
+Hawkins Lab		ORG

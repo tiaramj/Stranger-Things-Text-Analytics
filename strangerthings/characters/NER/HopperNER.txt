@@ -1,0 +1,27 @@
+Smirnoff		ORG
+Freud		PRODUCT
+the Hawkins National Laboratory		ORG
+Times		ORG
+Post		ORG
+Hawkins Lab		ORG
+CIA		ORG
+Flo, Flo		GPE
+Oldsmobile		EVENT
+Cadillac		ORG
+American		NORP
+Scotch		ORG
+Chianti		GPE
+Cartersville		GPE
+AC		ORG
+Hawkins Chief of Police		ORG
+NSA		ORG
+Department of Energy		ORG
+Slurpee		ORG
+Chicago		GPE
+Miami		GPE
+English		LANGUAGE
+MK Ultra		PRODUCT
+Russian		NORP
+the Sattler Company		ORG
+Roane		GPE
+Fireballs		ORG

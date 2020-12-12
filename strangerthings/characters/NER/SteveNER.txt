@@ -1,0 +1,16 @@
+Russians		NORP
+Russian		NORP
+Nashville		GPE
+GPA		ORG
+CH4		LANGUAGE
+sec		ORG
+American		NORP
+Russia		GPE
+Camp		EVENT
+Chinese		NORP
+the Mind Flayer		ORG
+Animal House		ORG
+Fast Times		ORG
+KFC		ORG
+Germans		NORP
+Nazis		NORP

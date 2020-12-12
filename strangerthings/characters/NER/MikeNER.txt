@@ -1,0 +1,25 @@
+The Thing		WORK_OF_ART
+New Coke		NORP
+Upside Down		WORK_OF_ART
+D.		NORP
+AV Club		ORG
+Operation Mirkwood		WORK_OF_ART
+Australia		GPE
+Australian		NORP
+Hawkins Middle AV Club		ORG
+Kerley		ORG
+Superspy		ORG
+Short for Eleven		WORK_OF_ART
+Signal		ORG
+Dustin)		ORG
+Nice		GPE
+Kalamar		LOC
+Dart		ORG
+Vale		PRODUCT
+Shadows		PRODUCT
+Russians		NORP
+Scoops Troop		ORG
+Dig Dug		GPE
+Atari		PRODUCT
+Swedish		NORP
+Hawkins AV		ORG

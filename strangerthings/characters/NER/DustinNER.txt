@@ -1,0 +1,40 @@
+sec		ORG
+Steve, Steve		ORG
+Oswald		ORG
+Russian		NORP
+Russians		NORP
+English		LANGUAGE
+Nutty Bars		FAC
+Smarties		ORG
+Pringles		ORG
+Nilla Wafers		ORG
+the X-Men		FAC
+Cast Protection		ORG
+New York		GPE
+Australian		NORP
+Hawkins Middle AV Club		ORG
+American		NORP
+Robin, Robin		ORG
+America		GPE
+Vale		PRODUCT
+Shadows		PRODUCT
+Earth		LOC
+North Pole		LOC
+Sherlock		ORG
+Utah		GPE
+Cerebro		ORG
+Mormon		NORP
+Hawkins Lab		ORG
+Department of Energy		ORG
+Maple Street		FAC
+Egon		ORG
+Scoops Troop		ORG
+Bald Eagle's		ORG
+Carson		GPE
+Centipede		NORP
+skateboards		PRODUCT
+you're-		EVENT
+Heathkit ham shack		FAC
+Sweden		GPE
+Demo		ORG
+Nazis		NORP

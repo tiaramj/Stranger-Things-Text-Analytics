@@ -1,0 +1,9 @@
+Byers		ORG
+Indianapolis		GPE
+Melvald's		ORG
+Xerox		ORG
+English		LANGUAGE
+NYU		ORG
+Boston		GPE
+Illinois		GPE
+Tonka Truck		WORK_OF_ART

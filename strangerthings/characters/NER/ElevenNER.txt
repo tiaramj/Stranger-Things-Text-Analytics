@@ -1,0 +1,3 @@
+Pikachu		PRODUCT
+Snow Ball		WORK_OF_ART
+Castle Byers		ORG
