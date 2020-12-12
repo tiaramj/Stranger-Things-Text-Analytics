@@ -1,0 +1,589 @@
+Locations: 
+Hawkins Lab - Night
+Byers House - Night
+Hawkins Lab - Night
+Wheeler Basement - Night
+Hawkins Lab - Night
+Wheeler Basement - Night + Hawkins Lab - Night
+Byers House - Night
+Wheeler House - Day
+Byers House - Day
+Cemetary/Will's funeral - Day
+Flashback
+End Flashback
+Hopper House - Day
+Hawkins Lab - Day
+Cemetary - Day
+Hawkins Middle School - Day
+Reception for Will's Funeral - Day
+Hopper House - Day
+Byers House - Day
+Wheeler Basement - Day 
+Byers House - Day
+Wheeler Garage - Day
+Byers House - Day
+The Woods - Day
+Hopper House - Day
+Railtracks - Day
+Flashback
+End Flashback
+Woods - Day
+Byers House - Day
+Woods - Scrapyard? - Day
+Byers House - Day
+Scrapyard? - Sunset
+Woods - Night
+
+Script: 
+[door beeps – a man and a woman leave, we see Hopper hiding behind a pillar]
+Woman: Thanks.
+[indistinct chatter – they walk together while Hopper catches the door before it closes, he sneaks into the lab]
+[Hopper walks down a hallway but hears people speaking – he slides into a room on his right and hides while they walk past]
+[breathing heavily]
+[indistinct chatter] 
+[sighs – they don’t notice him and he leaves, he continues through the empty halls eventually entering a quarantined zone – he comes to a door that requires a key card and rattles the doorknob in an attempt to open it]
+Hopper: No. [bangs door] [sighs]
+Agent: [gun cocking] Hands up. Hands up!
+Hopper: Whoa, whoa, whoa, whoa, whoa, whoa. [turns with his hands up]
+Agent: Forgot all the cameras, bub?
+Hopper Look, Dr. Brenner asked for me specifically. Okay? How else do you think I got in here?
+Agent: What's your name again?
+Hopper It's Jim Hopper. Chief Jim Hopper.
+Agent: Yeah, I've got Jim Hopper- [grunts as Hopper punches him and steals his gun]
+Man on radio: Come again?
+[indistinct radio chatter]
+Hopper: Hey... you mind if I borrow this one? [he takes the guards key card and gets through the door, shoots the scanner so no one else can get in behind him]
+[liquid pouring]
+Lonnie Drink. It'll calm your nerves. Help you think straight, yeah?
+Joyce I don't know what to do. I know. I know. [sniffs] This whole time... I... I could... I could feel him. He was... He was so close. He was... he was right there. I knew he was alive.
+[thunder rumbles]
+Joyce: Our hands... our hands were almost touching. Now it's like I... uh... [sobbing] God, it's like I can't feel him anymore. [pause] Don't look at me like that.
+Lonnie: Like what? 
+Joyce: Like how everybody is looking at me. Like I'm out of my damn mind.
+Lonnie: Hey. You're not gonna like this but I think you need to seriously consider the possibility that all this... It's in your head. 
+Joyce: [scoffs]
+Lonnie: You remember your Aunt Darlene?
+Joyce: No. No, this is not that.
+Lonnie: I mean, when something like this happens, your mind makes up stuff for you to cope, you know? I mean, Jesus, there's a funeral tomorrow for our little boy and you're saying his body is fake. He's in the wall. I mean, how do you explain that? [stammers] It just doesn't make sense. It doesn't. At least go talk to a shrink or...
+Joyce: [sighs]
+Lonnie: What about Pastor Charles or someone.. I don't-
+Joyce: Well, they can't help.
+Lonnie: Joyce, you just told me... that Will is gone. What else is there to do?
+Joyce: [sniffles]
+Lonnie: Hey.. 
+Joyce: [sniffles and downs her drink, pours herself another]
+[Hopper is searching the dark, empty hallways]
+Hopper: Will? Will? Will? Will? 
+[he’s searching through multiple rooms, comes across a room with a security camera that looks like a makeshift bedroom – there’s a child’s drawing on the wall]
+Mike: What was Will saying? Like home... Like home... but dark? 
+Lucas: And empty.
+Dustin: [sighs] Empty and cold. Wait, did he say cold? 
+Lucas: I don't know. The stupid radio kept going in and out.
+Dustin: [sighs] It's like riddles in the dark. 
+Mike: Like home. Like his house? 
+Lucas: Or maybe like Hawkins. 
+Eleven: Upside down.. 
+Lucas: What'd she say?
+Mike: Upside down. 
+Lucas: What?
+Mike: Upside down. When El showed us where Will was, she flipped the board over, remember? [he demonstrates] Upside down. Dark. Empty.
+Lucas: Do you understand what he's talking about?
+Dustin: No.
+Mike: Guys, come on, think about it. When El took us to find Will, she took us to his house, right?
+Lucas: Yeah. And he wasn't there.
+Mike: But what if he was there? What if we just couldn't see him? What if he was on the other side? What if this is Hawkins and... [he flips the board upside down] this is where Will is? The Upside Down.
+Dustin: Like the Vale of Shadows. 
+Hopper: Will? [he searches frantically] Will?
+[alarm blaring faintly] 
+Hopper: Will?
+[alarm continues]
+[Hopper makes it to the end of a hallway and starts pressing the button for the elevator]
+[indistinct chatter]
+[guards yelling – Hopper enters the elevator and sees the guards approaching]
+Guard: I see him! Hey! Stop!
+[the doors close]
+[Dustin gets out a dungens and dragons book]
+Dustin:
+"The Vale of Shadows , , is a dimension that is a dark reflection or echo of our world. It is a place of decay and death."
+~
+[the elevator opens and Hopper steps out]
+Hopper: Will?
+~
+Dustin: "A plane out of phase. A place of monsters. It is right next to you, and you don't even see it."
+~
+[electricity crackling]
+[Hopper coughing]
+Hopper: Will? Will?
+~
+Mike: An alternate dimension. But... how... how do we get there?
+Dustin: You cast Shadow Walk.
+Lucas: In real life, dummy.
+Dustin: We can't shadow walk, but... maybe she can. [he motions to El]
+Mike: Do you know how we get there? To the Upside Down?
+[El shakes her head]
+Lucas: [sighing] Oh, my God!
+~
+[Hopper coughing]
+[exclaims softly]
+Hopper: What the hell? [he sees the gate to the upside down and he reaches out to touch it as it pulses] [he hears something behind him and takes out the stolen gun]
+[a guard in hazmat suit approaches him from the front]
+Hopper: Hey! Hey! Hey!
+[one attacks him from behind and sedates him]
+[Jonathan enters the house, sees Joyce and Lonnie together on the couch]
+Lonnie: Hey, kid.
+Jonathan: What's going on?
+Joyce: Your dad's, uh, gonna stay here tonight. [stammers] On the couch.
+Lonnie: Yeah, I'm here as long as you need me, okay? How are you holding up? 
+Jonathan: [noticing the hole in the wall] What happened?
+Lonnie: Don’t worry about that.
+Jonathan: Mom... that thing you saw before, did it come back?
+Lonnie: Jonathan, that's enough.
+Jonathan: [sighs] Can we talk? Alone?
+[they talk in Jonathan’s bedroom]
+Jonathan: You need to leave.
+Lonnie: Look, I know you're upset. We all are. But you need to listen to me. Your mother is sick. Really sick.
+Jonathan: Yeah. Well, you being here.. you're just making things worse, like always.
+Lonnie: Worse?
+Jonathan: Yeah!
+Lonnie: She took down that wall with an ax. She said that Will was inside and that he's talking to her.
+Jonathan:Yeah. Maybe he was.
+Lonnie: This isn't some kind of joke. Your mom was half frozen to death when I got here. Trembling, scared out of her mind. You come in here and you start feeding into her hallucinations or whatever the hell you want to call it, you're gonna push her right over the edge. You hear me? [sighs] Look, I'm on your side. I'm here to help. I'm gonna make things better around here for all of us.
+Jonathan: [scoffs] Thank God you're here.
+Lonnie: Do me a favor. At the funeral tomorrow, just behave. If not for me, for your mother. [he pauses before motioning to the evil dead poster on the wall] Take that down. It's inappropriate.
+Mike: Ah! Dad, you're... you're choking me. 
+Ted: Ah... there. It's supposed to be a little tight. Looks good. 
+[zipper closing – in Nancy’s room we see Karen and Nancy]
+Karen: Here we go. [sighs] You look nice, sweetie. Anything else? You can borrow my black heels if you want. The ones you wore to Cathy's birthday. 
+Nancy: I'm fine. Thanks.
+[Jonathan is trying to tie his tie, eventually he gives up]
+Jonathan: Ugh.
+Lonnie: Come on. Time to go.
+Joyce: [groans softly – doesn’t want to leave Will’s room]
+Lonnie: Come on.
+Joyce: [sighs]
+Pastor Charles: "Fear not, for I am with you. Be not dismayed, for I am your God. I will strengthen you. Yes, I will help you. I will uphold you with my righteous right hand." It's times like these that our faith is challenged. How, if He is truly benevolent... could God take from us someone so young, so innocent. It would be easy to turn away from God... but we must remember that nothing, not even tragedy, can separate us from His love. We are here today to find comfort in the truth of scripture and to surround Will and his family... [continues indistinctly]
+[sniffles] 
+Dustin: Just wait till we tell Will that Jennifer Hayes was crying at his funeral.
+Karen: [shushes]
+[after the funeral – the wheelers approach Joyce and Lonnie]
+Karen: I'm so, so sorry.
+Lonnie: Oh, thank you so much for coming.
+Ted: Yeah, if there's anything we can do...
+Lonnie: I appreciate it. Thank you so much. Take care, all right? Thanks. Thanks for coming out.
+Joyce: I see Will the Wise is back. What's that shooting out of his cane?
+Will: Fireballs. I couldn't find the red crayon, so that's why it's green.
+Joyce: Oh, well... if he's so wise, why does he need fireballs? Why can't he just, you know, outsmart the bad guys?
+Will: Most of the time, yeah, totally. But... sometimes the bad guys are smart, too. You know?
+Joyce: Yeah. So he needs the fireballs?
+Will: Well, yeah, to burn them to a crisp. 
+Joyce: All right. Well, I don't know who's been raising you, but I'm gonna get you some new crayons because it looks like he's shooting cabbages.
+[both chuckle]
+[a sweaty Hopper wakes up gasping and breathing heavily on his couch]
+[he immediately gets up and grabs his gun – checks outside]
+[comes back in and checks his neck to see if there’s a mark – gets a sudden brainwave and starts frantically searching every inch of his house]
+[panting]
+[dishes clattering] 
+[eventually we see the whole place has been upheaved – he looks up and realises he hasn’t checked one ceiling light – he finds a wire]
+[exclaims]
+[a recording is playing]
+Lucas: “Will! Will, it's us! Are you there?”
+Dustin: “Can you hear us? We're here!”
+Will: [distorted] “Hello? Mom?” 
+Lucas: “Why can't he hear us?”
+Mike: “I don't know!” , , [Will distorted] Mom, it's coming! , ,
+Dr Brenner: She was there.
+[church bell tolling]
+Jonathan: This is where we know for sure it's been, right? So, that's-
+Nancy: Steve's house.
+Jonathan: And that's the woods where they found Will's bike and... that's my house. 
+Nancy: It's all so close.
+Jonathan: Yeah. Exactly. I mean, it's all within a mile or something. Whatever this thing is, it's... it's not traveling far.
+Nancy: You want to go out there.
+Jonathan: We might not find anything.
+Nancy: I found something. And if we do see it... then what?
+Jonathan: [sighs] We kill it.
+[we cut the Jonathan stealing a gun from the car]
+Nancy: What are you doing?
+Jonathan: Just give me a second. [he gets the gun and the ammo]
+Nancy: Are you serious?
+Jonathan: What? You want to find this thing and take another photo? Yell at it?
+Nancy: This is a terrible idea.
+Jonathan: Yeah, well, it's the best we've got. What? You can tell someone, but they're not gonna believe you. You know that.
+Nancy: Your mom would.
+Jonathan: She's been through enough.
+Nancy: She deserves to know.
+Jonathan: Yeah, and I'll tell her... when this thing is dead.
+Teacher:I don't know what in the world caused it.
+Agent Repairman: Let's take a look, huh?
+Teacher: Yeah. Mr. Clarke says he's never seen anything like it.
+Repairman: Mr. Clarke?
+Teacher: Yeah, he runs the AV Club.
+Repairman: That right?
+Teacher: Apparently, some of the less athletic types go nuts for this stuff.
+Mike: Mr. Clarke? 
+Mr. Clarke: Oh, hey, there. How are you boys holding up?
+Dustin: [munching]
+Lucas: We're... in... mourning.
+Dustin: Man, these aren't real Nilla Wafers. 
+Mike: We were wondering if you had time to talk?
+Lucas: We have some questions.
+Mike: A lot of questions.
+[they sit at a table to discuss]
+Mike: So, you know how in Cosmos, Carl Sagan talks about other dimensions? Like, beyond our world?
+Mr. Clarke: Yeah, sure. Theoretically. 
+Mike: Right, theoretically.
+Lucas: So, theoretically, how do we travel there?
+Mr. Clarke: You guys have been thinking about Hugh Everett's Many-Worlds Interpretation, haven't you? Well, basically, there are parallel universes. Just like our world, but just infinite variations of it. Which means there's a world out there where none of this tragic stuff ever happened.
+Lucas: Yeah, that's not what we're talking about.
+Mr. Clarke: Oh..
+Dustin: We were thinking of more of an evil dimension, like the Vale of Shadows. You know the Vale of Shadows?
+Mr. Clarke: An echo of the Material Plane, where necrotic and shadow magic-
+Mike: Yeah, exactly. If that did exist, a place like the Vale of Shadows, how would we travel there?
+Lucas: Theoretically.
+Mr. Clarke: Well... [he grabs a paper plate and starts drawing a rough diagram as he speaks] Picture... an acrobat... standing on a tightrope. Now, the tightrope is our dimension. And our dimension has rules. You can move forwards, or backwards. But, what if... right next to our acrobat, there is a flea? Now, the flea can also travel back and forth, just like the acrobat. Right?
+Mike: Right. 
+Mr. Clarke: Here's where things get really interesting. The flea can also travel this way... along the side of the rope. He can even go... underneath the rope. 
+Boys: Upside down.
+Mr. Clarke: Exactly.
+Mike: But we're not the flea, we're the acrobat.
+Mr. Clarke: In this metaphor, yes, we're the acrobat.
+Lucas: So we can't go upside down? 
+Mr. Clarke: No.
+Dustin: Well, is there any way for the acrobat to get to the Upside Down? , ,
+Mr. Clarke: Well... you'd have to create a massive amount of energy. More than humans are currently capable of creating, mind you, to open up some kind of tear in time and space, and then... [he stabs his pen through the paper plate] you create a doorway. 
+Dustin: Like a gate?
+Mr. Clarke: Sure. Like a gate. But again, this is all-
+Lucas: Theoretical.
+Mike: But... but what if this gate already existed?
+Mr. Clarke: Well, if it did, I... I think we'd know. It would disrupt gravity, the magnetic field, our environment. Heck, it might even swallow us up whole. Science is neat. But I'm afraid it's not very forgiving.
+[Powell and Callahan knock on the door]
+Callahan:Hey, Chief!
+[knocking]
+Callahan: Hello?
+[Hopper pops out like a crazy person with his gun raised]
+Callahan: Whoa!
+Hopper: Hey!
+Powell: Jesus, Chief. You all right?
+Hopper: What are you doing here?
+Powell: We tried calling, but-
+Hopper: Yeah, the phone's dead.
+[awkward silence]
+Callahan: Hey, so Bev Mooney came in this morning all upset. Said that Dale and Henry went hunting yesterday... and they didn't come back home.
+Powell: She thought they were on another binger, but she's not so sure now.
+Callahan: I think this whole Will Byers thing has everybody on edge.
+Hopper: Where was this?
+Callahan: It was at the station.
+Hopper: No, no. Where did Henry and Dale go hunting?
+Callahan: Oh. Uh, out near Kerley.
+Hopper: Mirkwood.
+Powell: What? 
+Hopper: Okay. You go back to the station. I'll take care of this, all right?
+Callahan: Are you sure?
+Hopper: Yeah, leave it.
+Callahan: Oh, hey. Uh, they found Barbara's car.
+Hopper: What? 
+Powell: Barbara Holland's car? Seems she ran away after all. Staties found it late last night at a bus station.
+Callahan: Funny, right? They keep doing our job for us.
+Hopper: Yeah. [chuckles] It's funny. [he goes inside quickly - door closes]
+Callahan: Is he off his meds again?
+[engine starts]
+Powell: He's been spending too much time with Joyce Byers. That's what I think.
+[hammering]
+Joyce: [sighs] What are you doing? 
+Lonnie: What does it look like I'm doing? You want to freeze to death all winter?
+[hammering continues]
+Joyce: [noticing the lights are down] I told you not to take these down.
+Lonnie: They were in the way, babe. How long are you gonna keep those up? I mean, really? You know, it's a shame what they've done to this family.
+Joyce: What?
+Lonnie: The Sattler Company. I went to the quarry on the way over here. I just wanted to look around, you know? Couldn't believe it. I just couldn't believe it. No warning signs, no fence, no nothing. Ought to be held accountable if you ask me.
+Mike: [having just shown El the diagram Mr. Clarke showed them] It would take a lot of energy to build a gate like this. But that's got to be what happened. Otherwise, how'd Will get there, right?
+El: Right.
+Lucas: What we want to know is, do you know where the gate is?
+[El shakes her head]
+Lucas: Then how do you know about the Upside Down?
+[We see Dustin pacing back and forth holding a compass]
+Mike: Dustin, what are you doing? Dustin? Dustin!
+Lucas: Dustin!
+Dustin: I... I need to see your compasses.
+Mike: What?
+Dustin: Your compasses. All of your compasses, right now!
+[he lays them out on the table]
+Mike: What's exciting about this? , ,
+Dustin: Well, they're all facing north, right?
+Lucas: Yeah, so?
+Dustin: Well, that's not true north.
+Mike: What do you mean?
+Dustin: I mean exactly what I just said. That's not true north. Are you both seriously this dense? The sun rises in the east, and it sets in the west. Right? Which means that's true north. 
+Mike: So what you're saying is the compasses are broken. , ,
+Dustin: [sighs] Do you even understand how a compass works? Do you see a battery pack on this?
+Mike: No.
+Dustin: No, you don't. Because it doesn't need one. The needle's naturally drawn to the Earth's magnetic North Pole.
+Lucas: So what's wrong with them?
+Dustin: Well, that's what I couldn't figure out, but then I remembered. You can change the direction of a compass with a magnet. If there's the presence of a more powerful magnetic field, the needle deflects to that power. And then I remembered what Mr. Clarke said. The gate would have so much power-
+Mike: It could disrupt the electromagnetic field.
+Dustin: Exactly.
+Lucas: Meaning, if we follow the compasses' north... 
+Dustin: They should lead us to the gate.
+[El looks worried]
+[Joyce finds a flyer for a law firm to claim foran accidental injury or death in Lonnie's bag]
+[Nancy picks up a baseball bat and practices swinging it in the garage]
+Steve: Whoa, whoa, hey, whoa, whoa. 
+Nancy: [exhales] What are you doing here?
+Steve: What are you doing? 
+Nancy: Nothing.
+Steve: I hope that's not meant for me.
+Nancy: What? No. Oh, no, I was just... thinking about joining softball.
+Steve: Oh. Well, uh... listen, I'm really sorry. I mean, even before you threatened me with the baseball bat. Okay. I panicked and... [sighs] I mean, I was a total dick.
+Nancy: Yeah, you were. [sighs] Did you get in trouble with your parents?
+Steve: Totally, but... you know, who cares? Screw 'em…. Any news about Barbara? Parents heard from her? Or...
+Nancy: No..
+Steve: Hey, listen. Why don't we, uh, why don't we catch a movie tonight, you know? Just kinda pretend everything's normal for a few hours. All The Right Moves is still playing. You know, with your lover boy from Risky Business?
+Nancy: [chuckles] Yeah, I know..
+Steve: You know, Carol thinks I actually kinda look like him. What do you think? Huh? [he takes the baseball bat and sings into the end of it like a dingus] ♪ Just take those old records Off the shelf ♪ … ♪ I'll sit and listen to them by myself ♪
+Nancy: I just, I... I don't think I can. I've been really busy with this whole funeral thing and... [inhales] with my brother. It's been really hard on him. 
+Steve: Yeah, sure. Sure, yeah, yeah.
+Nancy: So...
+Steve: I should go.
+Nancy: Sorry. I'll call you later. Is that okay? [she kisses his cheek – he turns and walks away]
+Steve: Yeah. Yeah, of course… ♪ Just take those old records Off the shelf ♪ .. ♪ I'll sit and listen to them... ♪ [he trails off as he leaves]
+Nacny: [sighs] [keeps practicing her swing]
+Joyce: You were here for the money!
+Lonnie: No! 
+Joyce: The money! Admit it! You aren't here 'cause of Will. You never cared about him. You never did!
+Lonnie: Jesus, Joyce, it was his funeral today. Do we have to do this right now?
+Joyce: I can't believe I fell for this.
+Lonnie: I'm here to help, Joyce.
+Joyce: To help?
+Lonnie: We could use that money for good.
+Joyce: [stammering] Oh, like maybe to pay off your debts?
+Lonnie: To pay for Jonathan to go to school!
+Joyce: Oh, don't do that.
+Lonnie: Do what? 
+Joyce: Lie to me!
+Lonnie: I'm not lying to you!
+Joyce: Yeah, well, where does he wanna go?
+Lonnie: Huh? What?
+Joyce: Where does Jonathan want to go to college?
+Lonnie: We get that money, anywhere he damn well pleases!
+Joyce: NYU, Lonnie! He's wanted to go to NYU since he was six years old!
+Lonnie: So then he goes to NYU!
+Joyce: Get out. Get out!
+Lonnie: You need me here, Joyce.
+Joyce: [laughs] Oh, brother, I have not needed you for a long time! 
+Lonnie: Oh, no? Look what happened.
+Joyce: [scoffs] Oh, don't you dare. At least I was here!
+Lonnie: Oh, come on, Joyce. Just look around at this place. All your Christmas lights. What the hell am I supposed to think? You're such a great mom? You're a mess!
+Joyce: Maybe I am a mess. Maybe I'm crazy. Maybe I'm out of my mind! But, God help me, I will keep these lights up until the day I die if I think there's a chance that Will's still out there! Now, get out! Get out of my house!
+[Jonathan is shooting at cans and he misses every single one]
+Nancy: You're supposed to hit the cans, right? 
+Jonathan: No, actually, you see the spaces in between the cans? I'm aiming for those.
+Nancy: Ah. 
+Jonathan: You ever shot a gun before?
+Nancy: [scoffs] Have you met my parents?
+Jonathan: [chuckles softly] Yeah, I haven't shot one since I was ten. My dad took me hunting on my birthday. He made me kill a rabbit.
+Nancy: A rabbit?
+Jonathan: Yeah. I guess he thought it would make me into more of a man or something. I cried for a week. 
+Nancy: Jesus.
+Jonathan: What? I'm a fan of Thumper.
+Nancy: [chuckles] I meant your dad.
+Jonathan: Yeah. I guess he and my mother loved each other at some point, but...
+[gun cocks]
+Jonathan: ...I wasn't around for that part. [Nancy takes the gun] Just, uh, point and shoot.
+Nancy: I don't think my parents ever loved each other.
+Jonathan: They must've married for some reason.
+Nancy: My mom was young. My dad was older, but he had a cushy job, money, came from a good family. So they bought a nice house at the end of the cul-de-sac... and started their nuclear family.
+Jonathan: Screw that.
+Nancy: Yeah. Screw that. [she shoots and hits a can on the first try]
+[both chuckle]
+[Jim calls his ex wife]
+[dialing]
+[line ringing]
+Diane: Hello?
+Hopper: Hey..
+Diane: Jim?
+Hopper: Yeah..
+Diane: [sighs] Why are you calling me here? I told you not to call me.
+Hopper: I know, I know, I know. I just wanted to... I just wanted to hear your voice and, uh... I just wanted to say that, um... even after everything that happened, I don't... I don't regret any of it. And those seven years, they were... everything to me.
+Diane: Have you been drinking?
+Hopper: No. No.
+[baby crying over phone]
+[Diane shushing]
+Diane: Honey, hey... Hey, it's okay... it's okay.
+[shushing][crying continues]
+Hopper: You know what, actually, I have been drinking, I'm sorry.
+Diane: Jim, I can't...
+Hopper: Just take care of yourself, okay? Say hi to Bill for me.
+Diane: Are you sure- [he hangs up and goes to leave his house]
+[phone ringing] [ringing stops as Hopper rips it out of the connection]
+Lucas: [sighs] How much further?
+Dustin: I don't know. These only tell direction, not distance. You really need to learn more about compasses.
+Lucas: I'm just saying. How do we know when we get to the gate?
+Dustin: Uh, I think a portal to another dimension is gonna be pretty obvious.
+Lucas: [sighs] Do you think she's acting weird?
+Dustin: You're asking if the weirdo is acting weird?
+Lucas: I mean, weirder than normal?
+Dustin: I don't know. Who cares?
+El: How far, Papa?
+Brenner: Farther than we've ever gone before.
+El: The bath?
+Brenner: Yes. Yes, the bath. Is that okay?
+El: Okay.
+El: Mike.
+Mike: Yeah?
+El: Turn back.
+Mike: What? Why?
+El: I'm tired.
+Mike: [sighs] Look, I'm sure we're almost there. Just hold on a little longer, okay? 
+Nancy: You never said what I was saying.
+Jonathan: What?
+Nancy: Yesterday. You said I was saying something and that's why you took my picture.
+Jonathan: Oh, uh... I don't know. My guess... I saw this girl, you know, trying to be someone else. But for that moment... it was like you were alone, or you thought you were. And, you know, you could just be yourself.
+Nancy: That is such bullshit.
+Jonathan: [stammers] What?
+Nancy: I am not trying to be someone else. Just because I'm dating Steve and you don't like him
+Jonathan: You know what? Forget it. I just thought it was a good picture.
+Nancy: He's actually a good guy.
+Jonathan: [stammers] Okay.
+Nancy: Yesterday, with the camera... He's not like that at all. He was just being protective.
+Jonathan: Yeah, that's one word for it.
+Nancy: Oh, and I guess what you did was okay? 
+Jonathan: No, I... I never said that. 
+Nancy: He had every right to be pissed
+Jonathan: Okay, all right. Does that mean I have to like him?
+Nancy: No.
+Jonathan: Listen, don't take it so personally, okay? I don't like most people. He's in the vast majority. 
+Nancy: You know, I was actually starting to think that you were okay.
+Jonathan: Yeah?
+Nancy: Yeah. Yeah, I was thinking, "Jonathan Byers, maybe he's not the pretentious creep everyone says he is."
+Jonathan: Well, I was just starting to think you were okay.
+Nancy: Oh.
+Jonathan: I was thinking, "Nancy Wheeler, she's not just another suburban girl who thinks she's rebelling by doing exactly what every other suburban girl does... until that phase passes and they marry some boring one-time jock who now works sales, and they live out a perfectly boring little life at the end of a cul-de-sac. Exactly like their parents, who they thought were so depressing, but now, hey, they get it."
+[pounding on door]
+Joyce: Go away, Lonnie.
+[continues pounding]
+Joyce: Seriously! I am gonna murd- [she opens the door only to see Hopper holding a sign that says “Don’t say anything”]
+Joyce: [whispers] What? What?
+Hopper: [sighs] Oh, Jesus. [sees the Christmas lights and knows he’s going to have a rough time trying to clear the place of a wire]
+Dustin: Oh, no.
+Lucas: "Oh, no"? What's, "Oh, no"?
+Dustin: We're headed back home.
+Mike: What?
+Lucas: Are you sure?
+Dustin: Yeah, I'm sure. Setting sun, right there. We looped right back around.
+Lucas: And you're just realizing this now? 
+Dustin: Why is this all on me?
+Lucas: Because you're the compass genius!
+Dustin: What do yours say?
+Both: North.
+Lucas: [sighs]
+Dustin: Makes no damn sense.
+Mike: [sighs] Maybe the gate moved.
+Dustin: No, I don't think it's the gate. I think it's something else screwing with the compasses. , 
+Mike: Maybe it's something here.
+Dustin: No, it has to be like a super magnet.
+Lucas: It's not a magnet. She's been acting weirder than normal. If she can slam doors with her mind, she can definitely screw up a compass.
+Mike: Why would she do that?
+Lucas: Because she's trying to sabotage our mission. Because she's a traitor!
+Mike: Lucas, what are you doing? 
+[Lucas approaches El]
+Lucas: You did it, didn't you? You don't want us to reach the gate. You don't want us to find Will.
+Mike: Lucas, come on, seriously, just leave her alone!
+Lucas: Admit it.
+El: No-
+Lucas: Admit it! [he grabs her arm to check her sleeve] Fresh blood. I knew it.
+Mike: Lucas, come on!
+Lucas: I saw her wiping her nose on the tracks! She was using her powers! 
+Mike: Bull! That's old blood. Right, El? Right, El?
+El: [crying] It's... not... it's not safe.
+[Hopper panting]
+[light bulbs clattering] 
+Hopper: [panting] Okay. Should be okay, I mean... I can't guarantee it, but it should be okay.
+Joyce: What the hell is going on, Hopper? 
+Hopper: They bugged my place. 
+Joyce: What?
+Hopper: They bugged my place. They put a microphone in the light. [sighs] It's because I'm on to them and they know it. I don't know...
+Joyce: Who?
+Hopper: I thought they might be watching you, too. I don't know, the CIA, the NSA, Department of Energy... I don't know.
+Joyce: You gotta explain this to me, 'cause I am not-
+Hopper: I went to the morgue last night, Joyce.
+Joyce: What?
+Hopper: It wasn't him.
+Joyce: What?
+Hopper: Will's body, it was a fake.
+[Joyce exclaims]
+Hopper: You were right. This whole time, you were right. 
+Lucas: What did I tell you? She's been playing us from the beginning!
+Mike: That's not true. She helped us find Will!
+Lucas: Find Will? Find Will? Where is he, then? Huh? I don't see him.
+Mike: Yeah, you know what I mean.
+Lucas: No, I actually don't. Just think about it, Mike. She could've just told us where the Upside Down was right away, but she didn't. She just made us run around like headless chickens.
+Dustin: All right, calm down!
+Lucas: No! She used us, all of us! She helped just enough so she could get what she wants. Food and a bed. She's like a stray dog.
+Mike: Screw you, Lucas!
+Lucas: No! Screw you, Mike. You're blind.. blind because you like that a girl's not grossed out by you. But wake up, man! Wake the hell up! She knows where Will is, and now she's just letting him die in the Upside Down.
+Mike: Shut up!
+Lucas: For all we know, it's her fault.
+Mike: Shut up. 
+Lucas: We're looking for some stupid monster... but did you ever stop to think that maybe she's the monster?
+Mike: I said shut up! 
+[they start fighting]
+El: Stop!
+Dustin: Knock it off, you idiots.
+El: Stop it!
+Dustin: Mike, get off! 
+El: Stop it! [screams – accidentally sends Lucas flying back into a metal sheet and knocks him out] 
+Dustin: Jesus! 
+Mike: Lucas! Lucas! Lucas, are you all right? 
+Dustin: Lucas. Lucas, come on! 
+Mike: Lucas, wake up! Lucas.
+Dustin: Come on, Lucas! 
+Mike: Why would you do that?
+Dustin: Come on.
+Mike: What's wrong with you? [distorted] What is wrong with you?
+[indistinct overlapping chatter]
+[El remembers using ‘the bath’ and seeing the demogorgan]
+[El sobbing]
+Dustin: Come on, wake up. Come on!
+Mike: Lucas... Lucas, come on!
+[Lucas wakes up]
+[Dustin chuckles]
+[Mike exhales]
+Mike: Lucas. Lucas, you okay?
+Dustin: Lucas... Lucas, how many fingers am I holding up? Lucas, how many fingers?
+Mike: Let me see your head.
+Lucas: Get off of me!
+Mike: Just... Lucas. Lucas, let me see.
+Lucas: Get off of me!
+Mike: Lucas, come on.
+Dustin: Let him go. Man, let him go.
+[they let Lucas storm off but notice that El is gone]
+Mike: Where is El? El? El!
+Dustin: Eleven!
+Mike: El! Eleven!
+Dustin: El!
+Mike: Eleven!
+[indistinct whimper] [Nancy stops]
+Jonathan: What, are you tired? 
+Nancy: Shut up.
+Jonathan: What?
+Nancy: I heard something.
+[indistinct whimper]
+[whimpering continues as they get closer – they see an injured deer]
+Nancy: Oh, God.
+[whimpering]
+[Jonathan sighs]
+Nancy: It's been hit by a car. We can't just leave it.
+[whimpering]
+Jonathan: I'll do it.
+Nancy: I thought you said- 
+Jonathan: I'm not nine anymore. [sighs] [cocks gun] [breathing heavily]
+[Suddenly the dear is ripped away by something] [both gasping]
+Nancy: What was that?
+[both panting, they try and follow the blood trail]
+Nancy: Where'd it go?
+Jonathan: I don't know. Do you see any more blood?
+Nancy: No.
+[they split off from each other and Nancy finds a strange opening in the base of a tree]
+Nancy: Jonathan? [when she gets no reply she goes through the opening, her flashlight immediately flickers]
+[she sees the demogorgan feeding on the deer and steps backwards accidentally stepping on a twig] [the demogorgan turns to her and roars] [Nancy screams]
+Jonathan: [hearing Nancy] [gasps] Nancy! Nancy? Nancy? Nancy, where are you? Nancy! Nancy!
